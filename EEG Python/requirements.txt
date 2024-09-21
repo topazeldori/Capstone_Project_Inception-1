@@ -1,8 +1,0 @@
-Pillow
-pandas
-numpy
-networkx
-matplotlib
-scipy
-glob2
-XlsxWriter
